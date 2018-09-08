@@ -1,0 +1,26 @@
+Questão 1
+
+.php - Arquivo padrão de php;
+.class.php - Arquivo contendo classes de php;
+.inc.php - Arquivos de inclusão apenas.
+
+Questão 2
+
+Apresentação, lógica e gerenciamento de dados.
+
+Questão 3
+
+A camada de Apresentação.
+
+Questão 4
+
+HTTP - Hypertext Transfer Protocol - é um protocolo de comunicação ;
+FTP - File Transfer Protocol – Protocolo de transferência de arquivos;
+POP - Post Office Protocol – Protocolo de acesso remoto a uma caixa de e-mail.
+
+Questão 5
+
+Echo é o comando padrão para o php;
+Print serve para imprimir strings;
+Var_dump serve para realizar debugs e mostrar variáveis de uma forma explicativa, por exemplo o tipo da variável;
+Print_r é parecido com o var_dump mas não mostra o tipo.
